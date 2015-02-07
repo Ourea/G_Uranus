@@ -1,14 +1,14 @@
 # G_Uranus
 Convey
 
-# Articulate
+Articulate
 
-# Communicate
+Communicate
 
-# Collaborate
+Collaborate
 
-# Design
+Design
 
-# Discover
+Discover
 
-# 
+
